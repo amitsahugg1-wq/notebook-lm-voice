@@ -1,0 +1,7 @@
+{
+  "name": "PodGen AI: Knowledge Podcast Generator",
+  "description": "Convert any fact or text into a professional podcast conversation between Amit (Teacher) and Gyanvani (Student). Features AI-generated scripts and realistic multi-speaker voice synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
